@@ -38,18 +38,6 @@ https://cr7v.short.gy/25mensais/s2/Whats7591634025.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KO1v3pS.png" group-title="CANAIS AO VIVO",SBT HD
 http://s2.micineovs.com/SBT/index.m3u8?token=16FOTt9Ae2m8
 
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS AO VIVO",Ge TV HD
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/720p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS AO VIVO",Ge TV FHD
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS AO VIVO",Cazé TV FHD
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS AO VIVO",Cazé TV YT
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS AO VIVO",Cazé TV YT 2 
-https://cr7v.short.gy/ManoTV/index.m3u8
-
 #EXTINF:-1 tvg-id="Record São Paulo" tvg-name="Record São Paulo" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS AO VIVO",RecordTV SP HD 
 http://s2.micineovs.com/RECORD/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-id="Record TV Rio" tvg-name="Record TV Rio" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS AO VIVO",RecordTV RJ HD
@@ -370,21 +358,21 @@ https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS ESPORTES",Ge TV HD (TCL TV)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/720p-cc/index.m3u8
-
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS ESPORTES",Ge TV FHD (TCL TV)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
 #EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS ESPORTES", Ge TV HD (SamsungTV)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS ESPORTES",Ge TV FHD (SamsungTV)
+#EXTINF:-1 tvg-id="Ge TV HD" tvg-name="" tvg-logo="https://i.imgur.com/TnHuVPZ.png" group-title="CANAIS ESPORTES",Ge TV FHD
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS ESPORTES",Cazé TV FHD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS ESPORTES",Cazé TV YT
+https://cr7v.short.gy/live/JOGOO8/Index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS ESPORTES",Cazé TV YT 2 
+https://cr7v.short.gy/ManoTV/index.m3u8
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS ESPORTES",Cazé TV HD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="CANAIS ESPORTES",Cazé TV FHD
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="CANAIS ESPORTES",XSports 
 https://cr7v.short.gy/manoitv/X-Sports/Index.m3u8
@@ -1146,7 +1134,7 @@ https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
 
 ############################################################################ CANAIS RETRÔ 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39nEUR8.png" group-title="PLUTO TV RETRÔ",Pluto TV Retrô 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39nEUR8.png" group-title="CANAIS RETRÔ",CANAIS RETRÔ 
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YM6uLry.png" group-title="CANAIS RETRÔ",A Feiticeira 
