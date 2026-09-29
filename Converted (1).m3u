@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LISTA SUSPENSA" tvg-logo="https://i.ibb.co/4w1d3jLk/IMG-20260927-WA9282.jpg" group-title="Assinar/Renovar Plano",WhatsApp - 22981538707
+#EXTINF:-1 tvg-id="" tvg-name="LISTA SUSPENSA" tvg-logo="https://i.ibb.co/4w1d3jLk/IMG-20260927-WA9282.jpg" group-title="ASSINAR/RENOVAR PLANO",WhatsApp - 22981538707
 https://www.kapwing.com/api/v2/m3u8/generate/6abaf830ef47c21da7a3c8e9.m3u8?fragment=true&hls=true
-#EXTINF:0 tvg-id="ext" group-title="Canais | 24H Desenhos",LILO E STITCH
-http://sevdns.sbs/live/822365693/478713796/3424810.ts
+#EXTINF:0 tvg-id="ext" group-title="ASSINAR/RENOVAR PLANO",WhatsApp - 22981538707
+https://www.kapwing.com/api/v2/m3u8/generate/6abc4b06ca708215ce88a1e7.m3u8?fragment=true&hls=true
 #EXTINF:0 tvg-id="ext" group-title="Canais | 24H Desenhos",3 PALAVRINHAS
 http://sevdns.sbs/live/822365693/478713796/3424811.ts
 #EXTINF:0 tvg-id="ext" group-title="Canais | 24H Desenhos",44 GATOS
