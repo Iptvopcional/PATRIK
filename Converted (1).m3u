@@ -3,8 +3,9 @@
 https://www.kapwing.com/api/v2/m3u8/generate/6abaf830ef47c21da7a3c8e9.m3u8?fragment=true&hls=true
 #EXTINF:0 tvg-id="ext" group-title="ASSINAR/RENOVAR PLANO",WhatsApp - 22981538707
 https://www.kapwing.com/api/v2/m3u8/generate/6abc4b06ca708215ce88a1e7.m3u8?fragment=true&hls=true
-#EXTINF:0 tvg-id="ext" group-title="Canais | 24H Desenhos",3 PALAVRINHAS
-http://sevdns.sbs/live/822365693/478713796/3424811.ts
+#EXTINF:0 tvg-id="ext" group-title="ASSINAR/RENOVAR PLANO",WhatsApp - 22981538707
+https://www.kapwing.com/api/v2/m3u8/generate/6abc4ed1ca708215ce88a2f4.m3u8?fragment=true&hls=true
+
 #EXTINF:0 tvg-id="ext" group-title="Canais | 24H Desenhos",44 GATOS
 http://sevdns.sbs/live/822365693/478713796/3424812.ts
 #EXTINF:0 tvg-id="ext" group-title="Canais | 24H Desenhos",A CASA DO MICKEY
